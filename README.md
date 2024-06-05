@@ -16,7 +16,8 @@ And fill the port input with :
 30000
 ```
 4. Click on Register button
-5. follow the indications written on the screen
+5. Follow the indications written on the screen
+6. Enjoy the server !
 
 ### If you don't have the Minetest Game
 1. Click [here](https://www.minetest.net/downloads/) to be rediriged to the official Minetest 
@@ -32,4 +33,14 @@ download website
 
 1. Lançez Minetest
 2. Cliquez sur l'onglet "Rejoindre un Serveur"
-3. Trouvez le serveur VersusCountry  
+3. Trouvez le serveur VersusCountry dans la liste ou écrivez l'URL 
+```
+elmagnifico.myddns.me
+```
+Et remplissez la case Port avec
+```
+30000
+```
+4. Cliquez sur le bouton "s'inscrire"
+5. Suivez les indications à l'écran
+6. Profitez du serveur !
