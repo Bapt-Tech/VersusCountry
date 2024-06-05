@@ -16,3 +16,7 @@ And fill the port input with :
 ```
 3. Click on Register button
 4. follow the indications written on the screen
+
+### If you don't have the Minetest Game
+1. Click [here](https://www.minetest.net/downloads/) to be rediriged to the official Minetest 
+download website
